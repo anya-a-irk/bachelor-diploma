@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar password;
+
+
+<password> = (пароль диплом);
+<cancel> = (отмена);
+<comand> = <password>|<cancel>;
+public <query> = <comand>;

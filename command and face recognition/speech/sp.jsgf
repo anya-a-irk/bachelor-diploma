@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar command;
+
+<greeting> = (ок|окей)(робот);
+<n1> = (поезжай)(вперед|назад|влево|вправо);
+<n2> = (стой на месте);
+<comand> = <n2>|<n1>;
+public <query> = <greeting> <comand>;
