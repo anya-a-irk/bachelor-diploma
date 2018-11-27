@@ -42,9 +42,6 @@ References:
 - PocketSphinx 
 - Dlib
 
-- PocketSphinx 
-- Dlib
-
 Видео:
 + https://youtu.be/cc80sw7W3oA
 + https://youtu.be/ETutm5x6-gs
